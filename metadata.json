@@ -1,0 +1,7 @@
+{
+  "name": "DiscreteMath Pro Solver",
+  "description": "An advanced AI-powered discrete mathematics solver with glassmorphism UI, featuring step-by-step solutions for logic, set theory, combinatorics, graph theory, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
